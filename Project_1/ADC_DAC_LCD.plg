@@ -1,0 +1,362 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\16418\Desktop\ƒ÷÷”\Project_1\ADC_DAC_LCD.uvproj
+Project File Date:  03/13/2019
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling lcd.c...
+compiling main.c...
+MAIN.C(126): warning C280: 'Gettime': unreferenced local variable
+MAIN.C(147): warning C290: missing return value
+compiling show.c...
+KEY.H(5): error C132: 'KeyScan': not in formal parameter list
+LCD.H(11): error C132: '_Delayms': not in formal parameter list
+LCD.H(12): error C132: '_WrateC': not in formal parameter list
+LCD.H(13): error C132: '_WrateD': not in formal parameter list
+LCD.H(14): error C132: '_LCDWrite': not in formal parameter list
+LCD.H(15): error C132: 'newLCDInit': not in formal parameter list
+LCD.H(16): error C132: '_LCD_setXY': not in formal parameter list
+LCD.H(17): error C132: '_LCD_draw_point': not in formal parameter list
+LCD.H(18): error C132: '_DrawPoint': not in formal parameter list
+LCD.H(19): error C132: 'Clear': not in formal parameter list
+LCD.H(20): error C132: '_Drawchar': not in formal parameter list
+LCD.H(21): error C132: '_DrawcharS': not in formal parameter list
+LCD.H(24): error C132: '_Drawhanzi': not in formal parameter list
+LCD.H(25): error C132: '_Drawhanzifix': not in formal parameter list
+LCD.H(27): error C132: '_DrawhanziS': not in formal parameter list
+LCD.H(28): error C132: '_DrawhanzifixS': not in formal parameter list
+SHOW.C(9): error C132: 'Init_time': not in formal parameter list
+SHOW.C(9): error C141: syntax error near '{'
+SHOW.C(10): error C132: 'shou_time': not in formal parameter list
+SHOW.C(11): error C141: syntax error near '}'
+SHOW.C(25): error C202: 'b': undefined identifier
+compiling run.c...
+RUN.C(10): warning C280: 'run_time': unreferenced local variable
+RUN.C(18): warning C206: 'show_time': missing function-prototype
+RUN.C(18): error C267: 'show_time': requires ANSI-style prototype
+Target not created
+compiling show.c...
+KEY.H(5): error C132: 'KeyScan': not in formal parameter list
+LCD.H(11): error C132: '_Delayms': not in formal parameter list
+LCD.H(12): error C132: '_WrateC': not in formal parameter list
+LCD.H(13): error C132: '_WrateD': not in formal parameter list
+LCD.H(14): error C132: '_LCDWrite': not in formal parameter list
+LCD.H(15): error C132: 'newLCDInit': not in formal parameter list
+LCD.H(16): error C132: '_LCD_setXY': not in formal parameter list
+LCD.H(17): error C132: '_LCD_draw_point': not in formal parameter list
+LCD.H(18): error C132: '_DrawPoint': not in formal parameter list
+LCD.H(19): error C132: 'Clear': not in formal parameter list
+LCD.H(20): error C132: '_Drawchar': not in formal parameter list
+LCD.H(21): error C132: '_DrawcharS': not in formal parameter list
+LCD.H(24): error C132: '_Drawhanzi': not in formal parameter list
+LCD.H(25): error C132: '_Drawhanzifix': not in formal parameter list
+LCD.H(27): error C132: '_DrawhanziS': not in formal parameter list
+LCD.H(28): error C132: '_DrawhanzifixS': not in formal parameter list
+SHOW.C(9): error C132: 'Init_time': not in formal parameter list
+SHOW.C(9): error C141: syntax error near '{'
+SHOW.C(10): error C132: 'shou_time': not in formal parameter list
+SHOW.C(11): error C141: syntax error near '}'
+SHOW.C(25): error C202: 'b': undefined identifier
+show.c - 21 Error(s), 0 Warning(s).
+compiling show.c...
+KEY.H(5): error C132: 'KeyScan': not in formal parameter list
+LCD.H(11): error C132: '_Delayms': not in formal parameter list
+LCD.H(12): error C132: '_WrateC': not in formal parameter list
+LCD.H(13): error C132: '_WrateD': not in formal parameter list
+LCD.H(14): error C132: '_LCDWrite': not in formal parameter list
+LCD.H(15): error C132: 'newLCDInit': not in formal parameter list
+LCD.H(16): error C132: '_LCD_setXY': not in formal parameter list
+LCD.H(17): error C132: '_LCD_draw_point': not in formal parameter list
+LCD.H(18): error C132: '_DrawPoint': not in formal parameter list
+LCD.H(19): error C132: 'Clear': not in formal parameter list
+LCD.H(20): error C132: '_Drawchar': not in formal parameter list
+LCD.H(21): error C132: '_DrawcharS': not in formal parameter list
+LCD.H(24): error C132: '_Drawhanzi': not in formal parameter list
+LCD.H(25): error C132: '_Drawhanzifix': not in formal parameter list
+LCD.H(27): error C132: '_DrawhanziS': not in formal parameter list
+LCD.H(28): error C132: '_DrawhanzifixS': not in formal parameter list
+SHOW.C(9): error C132: 'Init_time': not in formal parameter list
+SHOW.C(9): error C141: syntax error near '{'
+SHOW.C(10): error C132: 'shou_time': not in formal parameter list
+SHOW.C(11): error C141: syntax error near '}'
+SHOW.C(25): error C202: 'b': undefined identifier
+show.c - 21 Error(s), 0 Warning(s).
+compiling show.c...
+KEY.H(5): error C132: 'KeyScan': not in formal parameter list
+LCD.H(11): error C132: '_Delayms': not in formal parameter list
+LCD.H(12): error C132: '_WrateC': not in formal parameter list
+LCD.H(13): error C132: '_WrateD': not in formal parameter list
+LCD.H(14): error C132: '_LCDWrite': not in formal parameter list
+LCD.H(15): error C132: 'newLCDInit': not in formal parameter list
+LCD.H(16): error C132: '_LCD_setXY': not in formal parameter list
+LCD.H(17): error C132: '_LCD_draw_point': not in formal parameter list
+LCD.H(18): error C132: '_DrawPoint': not in formal parameter list
+LCD.H(19): error C132: 'Clear': not in formal parameter list
+LCD.H(20): error C132: '_Drawchar': not in formal parameter list
+LCD.H(21): error C132: '_DrawcharS': not in formal parameter list
+LCD.H(24): error C132: '_Drawhanzi': not in formal parameter list
+LCD.H(25): error C132: '_Drawhanzifix': not in formal parameter list
+LCD.H(27): error C132: '_DrawhanziS': not in formal parameter list
+LCD.H(28): error C132: '_DrawhanzifixS': not in formal parameter list
+SHOW.C(9): error C132: 'Init_time': not in formal parameter list
+SHOW.C(9): error C141: syntax error near '{'
+SHOW.C(10): error C132: 'shou_time': not in formal parameter list
+SHOW.C(11): error C141: syntax error near '}'
+SHOW.C(25): error C202: 'b': undefined identifier
+show.c - 21 Error(s), 0 Warning(s).
+compiling show.c...
+KEY.H(5): error C132: 'KeyScan': not in formal parameter list
+LCD.H(11): error C132: '_Delayms': not in formal parameter list
+LCD.H(12): error C132: '_WrateC': not in formal parameter list
+LCD.H(13): error C132: '_WrateD': not in formal parameter list
+LCD.H(14): error C132: '_LCDWrite': not in formal parameter list
+LCD.H(15): error C132: 'newLCDInit': not in formal parameter list
+LCD.H(16): error C132: '_LCD_setXY': not in formal parameter list
+LCD.H(17): error C132: '_LCD_draw_point': not in formal parameter list
+LCD.H(18): error C132: '_DrawPoint': not in formal parameter list
+LCD.H(19): error C132: 'Clear': not in formal parameter list
+LCD.H(20): error C132: '_Drawchar': not in formal parameter list
+LCD.H(21): error C132: '_DrawcharS': not in formal parameter list
+LCD.H(24): error C132: '_Drawhanzi': not in formal parameter list
+LCD.H(25): error C132: '_Drawhanzifix': not in formal parameter list
+LCD.H(27): error C132: '_DrawhanziS': not in formal parameter list
+LCD.H(28): error C132: '_DrawhanzifixS': not in formal parameter list
+SHOW.C(9): error C132: 'Init_time': not in formal parameter list
+SHOW.C(9): error C141: syntax error near '{'
+SHOW.C(10): error C132: 'shou_time': not in formal parameter list
+SHOW.C(11): error C141: syntax error near '}'
+SHOW.C(25): error C202: 'b': undefined identifier
+show.c - 21 Error(s), 0 Warning(s).
+compiling show.c...
+KEY.H(5): error C132: 'KeyScan': not in formal parameter list
+LCD.H(11): error C132: '_Delayms': not in formal parameter list
+LCD.H(12): error C132: '_WrateC': not in formal parameter list
+LCD.H(13): error C132: '_WrateD': not in formal parameter list
+LCD.H(14): error C132: '_LCDWrite': not in formal parameter list
+LCD.H(15): error C132: 'newLCDInit': not in formal parameter list
+LCD.H(16): error C132: '_LCD_setXY': not in formal parameter list
+LCD.H(17): error C132: '_LCD_draw_point': not in formal parameter list
+LCD.H(18): error C132: '_DrawPoint': not in formal parameter list
+LCD.H(19): error C132: 'Clear': not in formal parameter list
+LCD.H(20): error C132: '_Drawchar': not in formal parameter list
+LCD.H(21): error C132: '_DrawcharS': not in formal parameter list
+LCD.H(24): error C132: '_Drawhanzi': not in formal parameter list
+LCD.H(25): error C132: '_Drawhanzifix': not in formal parameter list
+LCD.H(27): error C132: '_DrawhanziS': not in formal parameter list
+LCD.H(28): error C132: '_DrawhanzifixS': not in formal parameter list
+SHOW.C(9): error C132: 'Init_time': not in formal parameter list
+SHOW.C(9): error C141: syntax error near '{'
+SHOW.C(10): error C132: 'shou_time': not in formal parameter list
+SHOW.C(11): error C141: syntax error near '}'
+SHOW.C(25): error C202: 'b': undefined identifier
+show.c - 21 Error(s), 0 Warning(s).
+compiling show.c...
+KEY.H(5): error C132: 'KeyScan': not in formal parameter list
+LCD.H(11): error C132: '_Delayms': not in formal parameter list
+LCD.H(12): error C132: '_WrateC': not in formal parameter list
+LCD.H(13): error C132: '_WrateD': not in formal parameter list
+LCD.H(14): error C132: '_LCDWrite': not in formal parameter list
+LCD.H(15): error C132: 'newLCDInit': not in formal parameter list
+LCD.H(16): error C132: '_LCD_setXY': not in formal parameter list
+LCD.H(17): error C132: '_LCD_draw_point': not in formal parameter list
+LCD.H(18): error C132: '_DrawPoint': not in formal parameter list
+LCD.H(19): error C132: 'Clear': not in formal parameter list
+LCD.H(20): error C132: '_Drawchar': not in formal parameter list
+LCD.H(21): error C132: '_DrawcharS': not in formal parameter list
+LCD.H(24): error C132: '_Drawhanzi': not in formal parameter list
+LCD.H(25): error C132: '_Drawhanzifix': not in formal parameter list
+LCD.H(27): error C132: '_DrawhanziS': not in formal parameter list
+LCD.H(28): error C132: '_DrawhanzifixS': not in formal parameter list
+SHOW.C(9): error C132: 'Init_time': not in formal parameter list
+SHOW.C(9): error C141: syntax error near '{'
+SHOW.C(10): error C132: 'shou_time': not in formal parameter list
+SHOW.C(11): error C141: syntax error near '}'
+SHOW.C(25): error C202: 'b': undefined identifier
+show.c - 21 Error(s), 0 Warning(s).
+compiling show.c...
+KEY.H(5): error C132: 'KeyScan': not in formal parameter list
+LCD.H(11): error C132: '_Delayms': not in formal parameter list
+LCD.H(12): error C132: '_WrateC': not in formal parameter list
+LCD.H(13): error C132: '_WrateD': not in formal parameter list
+LCD.H(14): error C132: '_LCDWrite': not in formal parameter list
+LCD.H(15): error C132: 'newLCDInit': not in formal parameter list
+LCD.H(16): error C132: '_LCD_setXY': not in formal parameter list
+LCD.H(17): error C132: '_LCD_draw_point': not in formal parameter list
+LCD.H(18): error C132: '_DrawPoint': not in formal parameter list
+LCD.H(19): error C132: 'Clear': not in formal parameter list
+LCD.H(20): error C132: '_Drawchar': not in formal parameter list
+LCD.H(21): error C132: '_DrawcharS': not in formal parameter list
+LCD.H(24): error C132: '_Drawhanzi': not in formal parameter list
+LCD.H(25): error C132: '_Drawhanzifix': not in formal parameter list
+LCD.H(27): error C132: '_DrawhanziS': not in formal parameter list
+LCD.H(28): error C132: '_DrawhanzifixS': not in formal parameter list
+SHOW.H(3): error C132: 'Init_time': not in formal parameter list
+SHOW.H(4): error C132: '_show_time': not in formal parameter list
+SHOW.H(5): error C132: '_set_time': not in formal parameter list
+SHOW.H(6): error C132: '_print': not in formal parameter list
+SHOW.H(7): error C132: '_Press_A': not in formal parameter list
+SHOW.C(10): error C132: '_Press_B': not in formal parameter list
+SHOW.C(10): error C141: syntax error near 'void'
+SHOW.C(10): error C132: 'Init_time': not in formal parameter list
+SHOW.C(10): error C141: syntax error near '{'
+SHOW.C(11): error C132: 'shou_time': not in formal parameter list
+SHOW.C(12): error C141: syntax error near '}'
+SHOW.C(26): error C202: 'b': undefined identifier
+show.c - 28 Error(s), 0 Warning(s).
+compiling show.c...
+KEY.H(5): error C132: 'KeyScan': not in formal parameter list
+LCD.H(11): error C132: '_Delayms': not in formal parameter list
+LCD.H(12): error C132: '_WrateC': not in formal parameter list
+LCD.H(13): error C132: '_WrateD': not in formal parameter list
+LCD.H(14): error C132: '_LCDWrite': not in formal parameter list
+LCD.H(15): error C132: 'newLCDInit': not in formal parameter list
+LCD.H(16): error C132: '_LCD_setXY': not in formal parameter list
+LCD.H(17): error C132: '_LCD_draw_point': not in formal parameter list
+LCD.H(18): error C132: '_DrawPoint': not in formal parameter list
+LCD.H(19): error C132: 'Clear': not in formal parameter list
+LCD.H(20): error C132: '_Drawchar': not in formal parameter list
+LCD.H(21): error C132: '_DrawcharS': not in formal parameter list
+LCD.H(24): error C132: '_Drawhanzi': not in formal parameter list
+LCD.H(25): error C132: '_Drawhanzifix': not in formal parameter list
+LCD.H(27): error C132: '_DrawhanziS': not in formal parameter list
+LCD.H(28): error C132: '_DrawhanzifixS': not in formal parameter list
+SHOW.C(6): error C132: 'Init_time': not in formal parameter list
+SHOW.C(7): error C132: '_show_time': not in formal parameter list
+SHOW.C(8): error C132: '_set_time': not in formal parameter list
+SHOW.C(9): error C132: '_print': not in formal parameter list
+SHOW.C(10): error C132: '_Press_A': not in formal parameter list
+SHOW.C(16): error C132: '_Press_B': not in formal parameter list
+SHOW.C(16): error C141: syntax error near 'void'
+SHOW.C(16): error C132: 'Init_time': not in formal parameter list
+SHOW.C(16): error C141: syntax error near '{'
+SHOW.C(17): error C132: 'shou_time': not in formal parameter list
+SHOW.C(18): error C141: syntax error near '}'
+SHOW.C(32): error C202: 'b': undefined identifier
+show.c - 28 Error(s), 0 Warning(s).
+compiling show.c...
+SHOW.C(16): error C132: 'Init_time': not in formal parameter list
+SHOW.C(16): error C141: syntax error near '{'
+SHOW.C(17): error C132: 'shou_time': not in formal parameter list
+SHOW.C(18): error C141: syntax error near '}'
+SHOW.C(32): error C202: 'b': undefined identifier
+show.c - 5 Error(s), 0 Warning(s).
+compiling show.c...
+SHOW.C(16): error C132: 'Init_time': not in formal parameter list
+SHOW.C(16): error C141: syntax error near '{'
+SHOW.C(17): error C132: 'shou_time': not in formal parameter list
+SHOW.C(18): error C141: syntax error near '}'
+SHOW.C(32): error C202: 'b': undefined identifier
+show.c - 5 Error(s), 0 Warning(s).
+compiling show.c...
+SHOW.C(12): warning C206: 'shou_time': missing function-prototype
+SHOW.C(12): error C267: 'shou_time': requires ANSI-style prototype
+SHOW.C(27): error C202: 'b': undefined identifier
+SHOW.C(36): error C202: 'A': undefined identifier
+show.c - 3 Error(s), 1 Warning(s).
+compiling show.c...
+SHOW.C(10): warning C280: 'a': unreferenced local variable
+SHOW.C(10): warning C280: 'b': unreferenced local variable
+SHOW.C(10): warning C280: 'c': unreferenced local variable
+SHOW.C(18): warning C206: 'shou_time': missing function-prototype
+SHOW.C(18): error C267: 'shou_time': requires ANSI-style prototype
+SHOW.C(26): error C202: 'b': undefined identifier
+SHOW.C(35): error C202: 'A': undefined identifier
+show.c - 3 Error(s), 4 Warning(s).
+compiling show.c...
+SHOW.C(10): warning C280: 'a': unreferenced local variable
+SHOW.C(10): warning C280: 'b': unreferenced local variable
+SHOW.C(10): warning C280: 'c': unreferenced local variable
+SHOW.C(18): warning C206: 'shou_time': missing function-prototype
+SHOW.C(18): error C267: 'shou_time': requires ANSI-style prototype
+SHOW.C(26): error C202: 'b': undefined identifier
+SHOW.C(35): error C202: 'A': undefined identifier
+show.c - 3 Error(s), 4 Warning(s).
+compiling show.c...
+SHOW.C(10): error C132: '_show_time': not in formal parameter list
+SHOW.C(10): error C141: syntax error near '{'
+SHOW.C(17): error C132: 'Init_time': not in formal parameter list
+SHOW.C(17): error C141: syntax error near '{'
+SHOW.C(18): error C132: 'shou_time': not in formal parameter list
+SHOW.C(19): error C141: syntax error near '}'
+SHOW.C(26): error C202: 'b': undefined identifier
+show.c - 7 Error(s), 0 Warning(s).
+compiling show.c...
+SHOW.C(10): warning C280: 'a': unreferenced local variable
+SHOW.C(10): warning C280: 'b': unreferenced local variable
+SHOW.C(10): warning C280: 'c': unreferenced local variable
+SHOW.C(18): warning C206: 'shou_time': missing function-prototype
+SHOW.C(18): error C267: 'shou_time': requires ANSI-style prototype
+SHOW.C(26): error C202: 'b': undefined identifier
+SHOW.C(35): error C202: 'A': undefined identifier
+show.c - 3 Error(s), 4 Warning(s).
+compiling show.c...
+SHOW.C(10): warning C280: 'a': unreferenced local variable
+SHOW.C(10): warning C280: 'b': unreferenced local variable
+SHOW.C(10): warning C280: 'c': unreferenced local variable
+SHOW.C(18): warning C206: 'shou_time': missing function-prototype
+SHOW.C(18): error C267: 'shou_time': requires ANSI-style prototype
+SHOW.C(26): error C202: 'b': undefined identifier
+show.c - 2 Error(s), 4 Warning(s).
+compiling show.c...
+SHOW.C(10): warning C280: 'a': unreferenced local variable
+SHOW.C(10): warning C280: 'b': unreferenced local variable
+SHOW.C(10): warning C280: 'c': unreferenced local variable
+SHOW.C(18): warning C206: 'shou_time': missing function-prototype
+SHOW.C(18): error C267: 'shou_time': requires ANSI-style prototype
+SHOW.C(26): error C202: 'b': undefined identifier
+show.c - 2 Error(s), 4 Warning(s).
+compiling show.c...
+SHOW.C(10): warning C280: 'a': unreferenced local variable
+SHOW.C(10): warning C280: 'b': unreferenced local variable
+SHOW.C(10): warning C280: 'c': unreferenced local variable
+SHOW.C(18): warning C206: 'shou_time': missing function-prototype
+SHOW.C(18): error C267: 'shou_time': requires ANSI-style prototype
+SHOW.C(26): error C202: 'b': undefined identifier
+show.c - 2 Error(s), 4 Warning(s).
+compiling show.c...
+SHOW.C(10): warning C280: 'a': unreferenced local variable
+SHOW.C(10): warning C280: 'b': unreferenced local variable
+SHOW.C(10): warning C280: 'c': unreferenced local variable
+SHOW.C(18): warning C206: 'shou_time': missing function-prototype
+SHOW.C(18): error C267: 'shou_time': requires ANSI-style prototype
+SHOW.C(28): error C141: syntax error near 'int'
+SHOW.C(28): error C202: 'flag': undefined identifier
+SHOW.C(29): error C141: syntax error near 'unsigned'
+SHOW.C(29): error C202: 'key': undefined identifier
+SHOW.C(33): error C202: 'key': undefined identifier
+SHOW.C(34): error C202: 'key': undefined identifier
+SHOW.C(35): error C202: 'key': undefined identifier
+show.c - 8 Error(s), 4 Warning(s).
+compiling show.c...
+SHOW.C(10): warning C280: 'a': unreferenced local variable
+SHOW.C(10): warning C280: 'b': unreferenced local variable
+SHOW.C(10): warning C280: 'c': unreferenced local variable
+SHOW.C(18): warning C206: 'shou_time': missing function-prototype
+SHOW.C(18): error C267: 'shou_time': requires ANSI-style prototype
+SHOW.C(28): error C141: syntax error near 'int'
+SHOW.C(28): error C202: 'flag': undefined identifier
+SHOW.C(29): error C141: syntax error near 'unsigned'
+SHOW.C(29): error C202: 'key': undefined identifier
+SHOW.C(33): error C202: 'key': undefined identifier
+SHOW.C(34): error C202: 'key': undefined identifier
+SHOW.C(35): error C202: 'key': undefined identifier
+show.c - 8 Error(s), 4 Warning(s).
+compiling show.c...
+SHOW.C(10): warning C280: 'a': unreferenced local variable
+SHOW.C(10): warning C280: 'b': unreferenced local variable
+SHOW.C(10): warning C280: 'c': unreferenced local variable
+SHOW.C(41): warning C206: 'clear': missing function-prototype
+SHOW.C(45): warning C206: 'shou_time': missing function-prototype
+SHOW.C(45): error C267: 'shou_time': requires ANSI-style prototype
+show.c - 1 Error(s), 5 Warning(s).
+compiling show.c...
+SHOW.C(10): warning C280: 'a': unreferenced local variable
+SHOW.C(10): warning C280: 'b': unreferenced local variable
+SHOW.C(10): warning C280: 'c': unreferenced local variable
+SHOW.C(41): warning C206: 'clear': missing function-prototype
+SHOW.C(81): warning C280: 'C': unreferenced local variable
+show.c - 0 Error(s), 5 Warning(s).
